@@ -69,8 +69,8 @@
             this.btnCalculate.Location = new System.Drawing.Point(5, 253);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(89, 25);
-            this.btnCalculate.TabIndex = 4;
-            this.btnCalculate.Text = "Calculate";
+            this.btnCalculate.TabIndex = 7;
+            this.btnCalculate.Text = "&Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
@@ -80,8 +80,8 @@
             this.label2.Location = new System.Drawing.Point(2, 42);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(43, 13);
-            this.label2.TabIndex = 8;
-            this.label2.Text = "Length:";
+            this.label2.TabIndex = 1;
+            this.label2.Text = "&Length:";
             // 
             // label3
             // 
@@ -89,8 +89,8 @@
             this.label3.Location = new System.Drawing.Point(2, 82);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(38, 13);
-            this.label3.TabIndex = 9;
-            this.label3.Text = "Width:";
+            this.label3.TabIndex = 3;
+            this.label3.Text = "&Width:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtPerimeter
@@ -125,14 +125,14 @@
             this.txtLength.Location = new System.Drawing.Point(75, 42);
             this.txtLength.Name = "txtLength";
             this.txtLength.Size = new System.Drawing.Size(185, 20);
-            this.txtLength.TabIndex = 1;
+            this.txtLength.TabIndex = 2;
             // 
             // txtWidth
             // 
             this.txtWidth.Location = new System.Drawing.Point(75, 77);
             this.txtWidth.Name = "txtWidth";
             this.txtWidth.Size = new System.Drawing.Size(185, 20);
-            this.txtWidth.TabIndex = 2;
+            this.txtWidth.TabIndex = 4;
             // 
             // btnExit
             // 
@@ -140,8 +140,8 @@
             this.btnExit.Location = new System.Drawing.Point(185, 253);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
-            this.btnExit.TabIndex = 6;
-            this.btnExit.Text = "Exit";
+            this.btnExit.TabIndex = 9;
+            this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
@@ -150,7 +150,7 @@
             this.txtHeight.Location = new System.Drawing.Point(75, 107);
             this.txtHeight.Name = "txtHeight";
             this.txtHeight.Size = new System.Drawing.Size(185, 20);
-            this.txtHeight.TabIndex = 3;
+            this.txtHeight.TabIndex = 6;
             this.txtHeight.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label4
@@ -159,8 +159,8 @@
             this.label4.Location = new System.Drawing.Point(2, 112);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(38, 13);
-            this.label4.TabIndex = 16;
-            this.label4.Text = "Height";
+            this.label4.TabIndex = 5;
+            this.label4.Text = "&Height";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label7
@@ -185,8 +185,8 @@
             this.btnAC.Location = new System.Drawing.Point(113, 253);
             this.btnAC.Name = "btnAC";
             this.btnAC.Size = new System.Drawing.Size(51, 23);
-            this.btnAC.TabIndex = 5;
-            this.btnAC.Text = "A&C";
+            this.btnAC.TabIndex = 8;
+            this.btnAC.Text = "&AC";
             this.btnAC.UseVisualStyleBackColor = true;
             this.btnAC.Click += new System.EventHandler(this.btnAC_Click);
             // 
