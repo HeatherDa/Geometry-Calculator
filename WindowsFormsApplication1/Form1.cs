@@ -43,7 +43,7 @@ namespace WindowsFormsApplication1
 
             txtLength.Focus();
         }
-        /* calAnswer is the function that processes input.  
+        /* calAnswer is the function that processes input.   
          * This function is where I would do data validation and exception handling
          */
         private void calAnswer()
